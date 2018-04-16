@@ -1,0 +1,53 @@
+python program start, will sleep for 30 sec then check gps data
+3D fix received, PDOP: 3.9
+3D fix received, PDOP: 3.9
+3D fix received, PDOP: 3.9
+3D fix received, PDOP: 3.9
+3D fix received, PDOP: 3.9
+3D fix received, PDOP: 3.9
+3D fix received, PDOP: 3.9
+3D fix received, PDOP: 3.9
+3D fix received, PDOP: 3.9
+3D fix received, PDOP: 3.9
+3D fix received, PDOP: 3.9
+3D fix received, PDOP: 3.9
+3D fix received, PDOP: 3.9
+3D fix received, PDOP: 3.9
+3D fix received, PDOP: 3.9
+3D fix received, PDOP: 3.9
+3D fix received, PDOP: 3.9
+3D fix received, PDOP: 3.9
+3D fix received, PDOP: 3.9
+3D fix received, PDOP: 3.9
+3D fix received, PDOP: 3.9
+3D fix received, PDOP: 3.9
+3D fix received, PDOP: 3.9
+3D fix received, PDOP: 3.9
+3D fix received, PDOP: 3.9
+3D fix received, PDOP: 3.9
+3D fix received, PDOP: 3.9
+3D fix received, PDOP: 3.9
+3D fix received, PDOP: 3.9
+3D fix received, PDOP: 3.9
+3D fix received, PDOP: 3.9
+3D fix received, PDOP: 3.9
+3D fix received, PDOP: 3.9
+3D fix received, PDOP: 3.9
+3D fix received, PDOP: 3.9
+3D fix received, PDOP: 3.9
+3D fix received, PDOP: 3.9
+3D fix received, PDOP: 3.9
+3D fix received, PDOP: 3.9
+3D fix received, PDOP: 3.9
+3D fix received, PDOP: 3.9
+3D fix received, PDOP: 3.9
+3D fix received, PDOP: 3.9
+3D fix received, PDOP: 3.9
+3D fix received, PDOP: 3.9
+3D fix received, PDOP: 3.9
+3D fix received, PDOP: 3.9
+3D fix received, PDOP: 2.2
+07 satellites in view
+good data acheived
+closing rtkrcv, total time(includes 30 sec sleep): 61.0686469078
+now starting RTCM transmission using str2str
